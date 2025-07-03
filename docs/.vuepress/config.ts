@@ -28,7 +28,7 @@ export default defineUserConfig({
   shouldPrefetch: false,
 
   theme: plumeTheme({
-    // hostname: 'https://your_site_url',
+    hostname: 'https://akitsukinagi.github.io/docs/',
 
     // 編輯連結
     // docsRepo: '',
